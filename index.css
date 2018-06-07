@@ -1,0 +1,147 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+}
+video{
+ width: 100%;
+}
+h4{
+  position: absolute;
+  left: 130px;
+  top: 26px;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+}
+img{
+  width: 40px;
+  height: 40px;
+  left: 80px;
+  top: 20px;
+  position: absolute;
+}
+nav ul li{
+  display: inline-block;
+}
+nav{
+top: 20px;
+left: 570px;
+position: absolute;
+width: 1000px;
+text-align: center;
+}
+a{
+  padding: 7px 7px;
+  text-decoration: none;
+  margin-right: 1px;
+  display: inline-block;
+  font-family: 'Titillium Web', sans-serif;
+  color:white;
+}
+.active{
+  color: #33DAFF;
+}
+nav ul li a:hover{
+  color : #33DAFF;
+
+}
+h2{
+  left: 500px;
+  top: 250px;
+  position: absolute;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 45px;
+}
+h1{
+  left: 640px;
+  top: 250px;
+  position: absolute;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 50px;
+}
+h3{
+  left: 610px;
+  top: 360px;
+  position: absolute;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+}
+h5{
+  left: 630px;
+  top: 400px;
+  position: absolute;
+  color: white;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+.unosect{
+  width: 100%;
+  height: 500px;
+  position: absolute;
+  margin-left: 110px;
+  margin-top: 20px;
+}
+.unosect>.uno{
+  width: 600px;
+  height: 300px;
+}
+.unosect>.unob{
+  left: 700px;
+  top: 20px;
+  position: absolute;
+  color: black;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 25px;
+}
+.unosect>.linea{
+  width: 230px;
+  height: 2px;
+  left: 700px;
+  top: 70px;
+  position: absolute;
+  background-color: #33DAFF;
+}
+.unosect.categorias ul li{
+  display: inline-block;
+}
+.categorias{
+top:85px;
+left: 588px;
+position: relative;
+text-align: center;
+}
+.cat{
+  padding: 7px 7px;
+  text-decoration: none;
+  margin-right: 1px;
+  display: inline-block;
+  position: relative;
+  font-family: 'Titillium Web', sans-serif;
+  color:black;
+}
+.unosect>.categorias ul li a:hover{
+  color : #33DAFF;
+
+}
+.unosect>.com{
+  width: 600px;
+  height: 50px;
+  background-color: #EBEBEB;
+  top: 340px;
+  left: 80px;
+  font
+}
+.btn{
+  padding: 7px 7px;
+  text-decoration: none;
+  margin-right: 1px;
+  display: inline-block;
+  position: relative;
+  font-family: 'Titillium Web', sans-serif;
+  color:gray;
+}
